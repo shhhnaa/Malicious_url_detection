@@ -1,8 +1,6 @@
 # Malicious_url_detection
 
 
-![Project Logo](link_to_your_logo.png) <!-- Replace with a logo or image related to your project -->
-
 This project focuses on the detection of malicious URLs using machine learning techniques.
 
 
