@@ -1,6 +1,5 @@
 # Malicious_url_detection
 
-# Malicious URL Detection
 
 ![Project Logo](link_to_your_logo.png) <!-- Replace with a logo or image related to your project -->
 
