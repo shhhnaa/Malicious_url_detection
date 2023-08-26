@@ -1,9 +1,9 @@
 
 
-1. **Programming Language:**
+1. #Programming Language:
    - Python
 
-2. **Libraries and Packages:**
+2. #Libraries and Packages:
    - `seaborn`: Data visualization library.
    - `colorama`: Library for colored terminal text (not explicitly used in the provided code).
    - `tld`: Library for extracting top-level domains from URLs.
@@ -15,15 +15,15 @@
    - `hmmlearn`: Hidden Markov Models library.
    - `xgboost`, `lightgbm`, `catboost`: Machine learning libraries for gradient boosting algorithms.
    
-3. **Data Manipulation and Analysis:**
+3. #Data Manipulation and Analysis:
    - `pandas`: Data manipulation and analysis library.
    - `numpy`: Numerical computing library.
 
-4. **Machine Learning and Data Science:**
+4. #Machine Learning and Data Science:
    - `sklearn` (Scikit-Learn): Machine learning library for various algorithms and tools.
    - `RandomForestClassifier`, `KNeighborsClassifier`, `GaussianNB`: Machine learning models for classification tasks.
 
-5. **Data Visualization:**
+5. #Data Visualization:
    - `matplotlib`: Data visualization library for creating static, interactive, and animated visualizations.
    - `plotly.graph_objects`, `plotly.subplots`: Plotly libraries for creating interactive plots.
 
